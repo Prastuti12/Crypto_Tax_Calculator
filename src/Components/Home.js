@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import template from "../Images/Frame.png";
-import Flag from "../Images/australia.png";
+
 
 const Home = () => {
   const [selectedOption, setSelectedOption] = useState("option1");
